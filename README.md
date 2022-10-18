@@ -1,6 +1,8 @@
-# Getting Started with Create React App
+# Getting Started with Traveller! (Create React App)
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+
+![Screenshot (41)](https://user-images.githubusercontent.com/79806436/196478460-395a45dc-9f82-4e18-a5e5-1e6230086f97.png)
 
 ## Available Scripts
 
